@@ -1,9 +1,10 @@
 {
-  "AppName": "WatchBP Analyzer",
-  "NewstVersion": "1.0.0.22",
-  "UpdateDate": 1542956114,
-  "DownloadLink": "https://raw.githubusercontent.com/Microlife-JasonLi/VerList/master/Null.7z",
-  "Changelog": "Hello Alice,\r\nThis is a demo\r\nHa Ha Ha\r\nSkip this version將會跳過這次更新(1.0.0.23)，直到1.0.0.24發布為止\r\nRemind me later只是關閉視窗，只要重開程式就又會跳出來\r\nDownload則會用預設方式下載檔案\r\n以上\r\n\r\nJason",
-  "MoreChangelogRUL": "https://www.google.com",
-  "Toast": ""
+  "item": {
+    "version": "1.0.0.24",
+    "url": "https://www.microlife.com/software",
+    "changelog": "Hello Alice,\r\nThis is a demo\r\nHa Ha Ha\r\nSkip this version將會跳過這次更新(1.0.0.23)，直到1.0.0.24發布為止\r\nRemind me later只是關閉視窗，只要重開程式就又會跳出來\r\nDownload則會用預設方式下載檔案\r\n以上\r\n\r\nJason",
+    "mandatory": "false",
+    "MoreChangelogRUL": "",
+    "Toast": ""
+  }
 }
